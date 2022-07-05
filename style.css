@@ -56,9 +56,44 @@ h1 {
     background-size: cover;
 }
 
-#loerm-ipsum {
+.loerm-ipsum {
     color: black;
     line-height: 30px;
     font-family: 'Manrope', sans-serif;
     font-size: 20px;
+}
+
+.my-recipies {
+    text-align: center;
+}
+
+.my-recipies p {
+    line-height: 30px;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.sec-box {
+    background-color: #D0D0D0;
+}
+
+.img-box {
+    border-radius: 60px;
+    margin: 80px;
+    background-color: #FFFFFF;
+}
+
+.img-box p {
+    line-height: 30px;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-right: 50px;
+    margin-top: 0px;
+}
+
+.img-box h2 {
+    font-weight: 700;
+    font-size: 35px;
 }
