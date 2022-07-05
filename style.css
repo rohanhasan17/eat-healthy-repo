@@ -76,6 +76,7 @@ h1 {
 
 .sec-box {
     background-color: #D0D0D0;
+    margin-bottom: 0px;
 }
 
 .img-box {
@@ -96,4 +97,36 @@ h1 {
 .img-box h2 {
     font-weight: 700;
     font-size: 35px;
+}
+
+.box-social {
+    width: 30%;
+    text-align: center;
+}
+
+.box-social h1 {
+    color: black;
+    margin-bottom: 0px;
+}
+
+.box-social p {
+    font-family: 'Manrope', sans-serif;
+}
+
+footer {
+    background-color: #0B0D17;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+
+footer h2 {
+    margin-bottom: 30px;
+    font-size: 35px;
+    color: #5B5B5B;
+}
+
+footer p {
+    font-family: 'Manrope', sans-serif;
 }
